@@ -14,6 +14,6 @@ class BoardMember {
     return "I like to helo people."
   }
   releasePressStatement(){
-    ""
+    "You will see great things from Scuber."
   }
 }
